@@ -1,5 +1,7 @@
 # 🥔 Lotte Potatoes 
 
+[Lotte Potatoes 노션 링크](https://jungew1509.notion.site/Lotte-Potatoes-d06de3c2949044bba7685cc5f0dc0f13)
+
 ## 😄 Pull Request 규칙! 
 
 1. Organization의 Repository를 개인 Repository로 fork 합니다.
